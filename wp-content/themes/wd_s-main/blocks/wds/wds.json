@@ -1,0 +1,14 @@
+{
+  "name": "wds",
+  "title": "WDS",
+  "description": "A custom WDS block.",
+  "style": [ "file:./wds.css" ],
+  "category": "formatting",
+  "icon": "admin-comments",
+  "keywords": ["wds"],
+  "acf": {
+	"mode": "preview",
+	"renderTemplate": "wds.php"
+  },
+  "align": "full"
+}
